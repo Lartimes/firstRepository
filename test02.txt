@@ -1,5 +1,6 @@
  i am using vim editor.. 
 
 
- i means insert 
+ i means insert 、
+12323
  esc then :wq to exit this window we1  
