@@ -1,0 +1,5 @@
+ i am using vim editor.. 
+
+
+ i means insert 
+ esc then :wq to exit this window we1  
